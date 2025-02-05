@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">API REST FREE</string>
+    <string name="txt_animal">Animal</string>
+    <string name="txt_opt_about">Acerca de</string>
+    <string name="txt_ordenar_alfabeticamente">Ordenar Alfabéticamente</string>
+    <string name="txt_optBottom_all">Todos los animales</string>
+    <string name="txt_favorites">Animales favoritos</string>
+    <string name="txt_noConnection">No hay conexión a internet</string>
+    <string name="txt_searchAnimals">Buscar animales</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="taxonomy">Taxonomy</string>
+    <string name="taxonomy_information">Taxonomy Information</string>
+    <string name="characteristics">Characteristics</string>
+    <string name="characteristics_information">Characteristics Information</string>
+    <string name="locations">Locations</string>
+    <string name="location_information">Location Information</string>
+</resources>

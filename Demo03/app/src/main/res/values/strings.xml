@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo03</string>
+    <string name="txt_list">List</string>
+    <string name="txt_add">Add element</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_save">Guardar</string>
+    <string name="error_title">Title is required</string>
+    <string name="error_desc">Description is required</string>
+</resources>

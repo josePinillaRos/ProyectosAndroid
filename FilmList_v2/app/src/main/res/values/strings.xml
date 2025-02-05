@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FilmList</string>
+    <string name="txt_film_deleted">%s deleted</string>
+    <string name="txt_undo">UNDO</string>
+    <string name="txt_duration">%s min</string>
+    <string name="warning_no_films">No films</string>
+
+</resources>

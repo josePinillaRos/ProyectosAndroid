@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opt_desactivar_filtro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/txt_opFiltersOff" />
+    <item
+        android:id="@+id/opt_ordenar_por_titulo"
+        android:title="@string/txt_opSortByTitle"
+
+        />
+    <item
+        android:id="@+id/opt_add_note"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/txt_opAddNote"
+        app:showAsAction="ifRoom"/>
+</menu>

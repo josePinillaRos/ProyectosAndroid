@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opt_ordenar_alfabetico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:title="@string/txt_opt_order_alfabeto"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/opt_ordenar_puntuacion"
+        android:icon="@android:drawable/ic_menu_day"
+        android:title="@string/txt_opt_order_puntuacion"
+        app:showAsAction="ifRoom" />
+</menu>

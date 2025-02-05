@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo01</string>
+    <string name="txt_title">Formulario básico</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_surname">Surname</string>
+    <string name="txt_birthdate">BirthDate</string>
+    <string name="txt_license">Carnet de conducir</string>
+    <string name="txt_no">No</string>
+    <string name="txt_yes">Sí</string>
+    <string name="txt_turn">Turno de tarde</string>
+    <string name="txt_modules">Módulos a elegir</string>
+    <string name="txt_ada">ADA</string>
+    <string name="txt_di">DI</string>
+    <string name="txt_pmdm">PMDM</string>
+    <string name="txt_psp">PSP</string>
+    <string name="txt_sge">SGE</string>
+    <string name="txt_validate">Validar</string>
+    <string name="txt_warning">Este campo no puede estar vacío</string>
+    <string name="txt_warning_modules">Debes seleccionar almenos un módulo</string>
+
+    <string name="txt_morning">Turno de mañana</string>
+    <string name="txt_result1">Nombre: %1$s \nApellidos: %2$s \nFecha de nacimiento:
+        %3$s \n\n</string>
+    <string name="txt_result2">Carnet de conducir: %1$s \nTurno de tarde: %2$s
+        \n\n</string>
+    <string name="txt_result3">Módulos seleccionados:\n%1$s</string>
+</resources>

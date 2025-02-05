@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo05</string>
+    <string name="subtitle">TVMaze</string>
+    <string name="txt_noConnection">No hay conexión</string>
+</resources>

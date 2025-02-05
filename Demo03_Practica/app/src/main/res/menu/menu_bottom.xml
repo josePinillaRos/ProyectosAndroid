@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op_list"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/txt_list" />
+    <item
+        android:id="@+id/op_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/txt_add" />
+    <item
+        android:id="@+id/op_archived"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="@string/archived" />
+</menu>

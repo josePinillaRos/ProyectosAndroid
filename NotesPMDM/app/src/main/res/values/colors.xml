@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="gray">#FF808080</color>
+    <color name="dark_gray">#FFA9A9A9</color>
+    <color name="light_blue">#FFADD8E6</color>
+    <color name="light_green">#FF90EE90</color>
+    <color name="light_yellow">#FFFFFFE0</color>
+    <color name="light_red">#FFFFA07A</color>
+    <color name="light_purple">#FFBA55D3</color>
+    <color name="light_orange">#FFFFA500</color>
+    <color name="dark_blue">#FF00008B</color>
+    <color name="dark_green">#FF006400</color>
+    <color name="dark_yellow">#FFBDB76B</color>
+    <color name="dark_red">#FF8B0000</color>
+    <color name="dark_purple">#FF8A2BE2</color>
+    <color name="dark_orange">#FFFF8C00</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorPrimaryDarkLight">#303F9F</color>
+    <color name="colorAccentLight">#FF4081</color>
+    <color name="colorPrimaryDarkDark">#303F9F</color>
+    <color name="colorAccentDark">#FF4081</color>
+    <color name="colorPrimaryLightDark">#C5CAE9</color>
+    <color name="colorPrimaryDarkLightDark">#303F9F</color>
+    <color name="colorAccentLightDark">#FF4081</color>
+    <color name="colorPrimaryDarkDarkDark">#303F9F</color>
+
+</resources>

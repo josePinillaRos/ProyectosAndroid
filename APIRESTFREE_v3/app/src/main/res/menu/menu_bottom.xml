@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op_todas"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/txt_optBottom_all" />
+    <item
+        android:id="@+id/op_favoritas"
+        android:icon="@drawable/favorite_on"
+        android:title="@string/txt_favorites" />
+</menu>
